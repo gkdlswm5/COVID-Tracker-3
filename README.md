@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 
-=======
 # COVID-Tracker-3
 
 Deployed Link : https://covid-tracker-gkd.herokuapp.com/
